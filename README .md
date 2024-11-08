@@ -55,6 +55,3 @@ Here is your latte ☕️. Enjoy!
 - Implement a graphical interface.
 - Add a maintenance mode to refill resources or empty the money machine.
 
-## License
-
-This project is licensed under the MIT License.
